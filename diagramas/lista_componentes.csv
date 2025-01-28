@@ -1,8 +1,8 @@
-﻿Name,Quantity,Component
-"UArduino",1," Arduino Uno R3"
-"RResistor, RResistor1, RResistor2",3,"220 Ω Resistor"
-"DledGreen",1,"Green LED"
-"DledYellow",1,"Yellow LED"
-"DledRed",1,"Red LED"
+﻿Nome,Quantidade,Componente
+"Arduino",1," Arduino Uno R3"
+"Resistor",3,"220 Ω Resistor"
+"ledVerde",1,"Green LED"
+"ledAmarelo",1,"Yellow LED"
+"ledVermelho",1,"Red LED"
 "PIEZOBuzzer",1," Piezo"
-"RpotPotênciometro1",1,"250 kΩ Potentiometer"
+"Potênciometro",1,"250 kΩ Potentiometer"
