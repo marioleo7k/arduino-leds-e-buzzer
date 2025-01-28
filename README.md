@@ -72,9 +72,11 @@ arduino-leds-e-buzzer/
 
 ## 🖼️ **Diagramas do Projeto**
 - **Visão do Circuito**:
+  
   <img src="https://raw.githubusercontent.com/marioleo7k/arduino-leds-e-buzzer/refs/heads/main/diagramas/visao_circuito.png" alt="Diagrama do Circuito" width="500" height="250">
 
 - **Visão Esquemática**:
+  
   <img src="https://raw.githubusercontent.com/marioleo7k/arduino-leds-e-buzzer/refs/heads/main/diagramas/visao_esquematica.png" alt="Diagrama Esquemático" width="500" height="250">
 
 ---
