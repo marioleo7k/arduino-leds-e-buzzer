@@ -1,32 +1,17 @@
-# Prerequisites
-*.d
+# Ignorar arquivos temporários do Arduino
+*.ino.d
+*.ino.cpp
+*.ino.o
+*.elf
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Ignorar bibliotecas de terceiros
+/libraries/*
 
-# Precompiled Headers
-*.gch
-*.pch
+# Ignorar a pasta de build (caso o Arduino IDE crie uma)
+build/
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# Ignorar arquivos de configuração do VSCode
+.vscode/
 
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+# Ignorar arquivos de log
+*.log
