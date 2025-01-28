@@ -15,3 +15,10 @@ build/
 
 # Ignorar arquivos de log
 *.log
+
+# Ignorar arquivos temporários de backup
+*.bak
+*~
+
+# Ignorar a pasta do PlatformIO (se aplicável)
+.pio/
